@@ -1,0 +1,11 @@
+# Thư viện cần cài đặt nếu chưa có
+numpy
+pandas
+requests
+matplotlib
+seaborn
+streamlit
+os
+plotly
+scipy
+opencv-python
