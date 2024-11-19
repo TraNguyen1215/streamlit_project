@@ -9,3 +9,4 @@ os
 plotly
 scipy
 opencv-python
+altair
