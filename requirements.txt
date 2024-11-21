@@ -5,8 +5,6 @@ requests
 matplotlib
 seaborn
 streamlit
-os
 plotly
-scipy
 opencv-python
 altair
